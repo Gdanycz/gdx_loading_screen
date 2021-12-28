@@ -1,3 +1,10 @@
+fx_version 'adamant'
+game 'gta5'
+
+author 'Gdany#2835'
+description 'Simple loading screen'
+version '1.0.0'
+
 files {
     'index.html',
     'style.css',
@@ -16,5 +23,3 @@ files {
 }
 
 loadscreen 'index.html'
-
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
